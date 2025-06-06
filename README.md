@@ -1,0 +1,1 @@
+# Smart-Trolley-with-Automated-Checkout-for-Seamless-Retail-Shopping-Using-Arduino
